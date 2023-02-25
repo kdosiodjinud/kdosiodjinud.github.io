@@ -435,6 +435,24 @@ sk: &DEFAULT_SK
 sk-SK:
   <<: *DEFAULT_SK
 
+# Czech
+# -----------------
+cz: &DEFAULT_CZ
+  comments_label             : "Vlož komentář"
+  comments_title             : "Komentáře"
+  comment_form_info          : "Tvoje emailová adresa nebude publikovaná. Povinné položky jsou označené."
+  comment_form_comment_label : "Komentář"
+  comment_form_md_info       : "Markdown je podporovaný."
+  comment_form_name_label    : "Jméno"
+  comment_form_email_label   : "Emailová adresa"
+  comment_form_website_label : "Web (volitelný)"
+  comment_btn_submit         : "Vlož komentář"
+  comment_btn_submitted      : "Vložený"
+  comment_success_msg        : "Děkuji za tvůj komentář! Po schválení se zobrazí na stránce."
+  comment_error_msg          : "Omlouvám se, při ukládání nastala chyba. Zkontroluj prosím, že jsi vyplnil všechny povinné položky a zkus to znovu."
+cs-CZ:
+  <<: *DEFAULT_CZ
+
 # Hungarian
 # -----------------
 hu: &DEFAULT_HU
