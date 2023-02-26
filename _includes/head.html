@@ -48,7 +48,9 @@
     {% include google_analytics.html %}
 
     {% if layout.common-ext-css %}
-    {%- for css in layout.common-ext-css -%}{%- include ext-css.html css=css -%}{%- endfor -%}
+    {% for css in layout.common-ext-css %}
+    {% include ext-css.html css=css %}
+    {% endfor %}
     {% endif %}
 
     {% if layout.common-css %}
