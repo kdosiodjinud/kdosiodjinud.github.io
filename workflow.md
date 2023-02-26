@@ -1,6 +1,4 @@
----
-layout: default
----
+<h1>Workflow</h1>
 
 moje workflow
 moje workflow
