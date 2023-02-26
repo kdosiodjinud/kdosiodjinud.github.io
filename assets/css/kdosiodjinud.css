@@ -8,9 +8,8 @@
     padding: 0px;
 }
 .navbar-brand>img {
-    height: 100%;
-    width: auto;
-    padding: 7px 14px;
+    height: 100px;
+    width: 100px;
     margin-top: 0px;
     max-width: 100px;
 }
@@ -18,7 +17,8 @@
 @media (min-width: 576px) {
     .navbar-brand>img {
         margin-top: 70px;
-        max-width: 200px;
+        width: 200px;
+        height: 200px;
     }
 }
 
