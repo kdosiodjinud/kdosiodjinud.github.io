@@ -1,1 +1,1 @@
-<h2>Reference</h2>
+<h1>Reference</h1>
