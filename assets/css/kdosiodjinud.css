@@ -1,3 +1,7 @@
+.container {
+    max-width: 800px;
+}
+
 .navbar-brand {
     transform: translateX(-50%);
     left: 50%;
