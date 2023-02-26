@@ -12,4 +12,17 @@
     width: auto;
     padding: 7px 14px;
     margin-top: 70px;
+    max-width: 200px;
 }
+
+@media (min-width: 576px) {
+    .navbar-brand>img {
+        margin-top: 0px;
+        max-width: 100px;
+    }
+}
+
+@media (min-width: 768px) { }
+@media (min-width: 992px) { }
+@media (min-width: 1200px) { }
+@media (min-width: 1400px) { }
