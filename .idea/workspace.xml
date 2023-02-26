@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b56780ac-5ea3-4545-9720-b873fa369e0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_includes/ext-css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/ext-js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/google_analytics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/gtag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/gtm_body.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/gtm_head.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677328578436</updated>
       <workItem from="1677328580131" duration="3654000" />
-      <workItem from="1677352341339" duration="3894000" />
+      <workItem from="1677352341339" duration="4029000" />
     </task>
     <servers />
   </component>
