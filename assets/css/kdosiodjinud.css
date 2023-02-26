@@ -14,6 +14,10 @@
     border: 12px solid gray;
 }
 
+.container-content {
+    margin-top: 125px;
+}
+
 @media (min-width: 576px) { }
 
 @media (min-width: 768px) { }
@@ -22,6 +26,9 @@
         margin-top: 70px;
         width: 200px;
         height: 200px;
+    }
+    .container-content {
+        margin-top: 50px;
     }
 }
 @media (min-width: 1200px) { }
