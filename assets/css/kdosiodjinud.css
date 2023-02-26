@@ -15,7 +15,7 @@
 }
 
 .container-content {
-    margin-top: 125px;
+    margin-top: 50px;
 }
 
 @media (min-width: 576px) { }
@@ -28,7 +28,7 @@
         height: 200px;
     }
     .container-content {
-        margin-top: 50px;
+        margin-top: 125px;
     }
 }
 @media (min-width: 1200px) { }
